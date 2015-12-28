@@ -15,7 +15,7 @@
 		8A9BF83F1A5D15BE00399DBA /* tipsTests.swift in Sources */ = {isa = PBXBuildFile; fileRef = 8A9BF83E1A5D15BE00399DBA /* tipsTests.swift */; };
 		8A9BF8491A5EEDC200399DBA /* SettingsViewController.swift in Sources */ = {isa = PBXBuildFile; fileRef = 8A9BF8481A5EEDC200399DBA /* SettingsViewController.swift */; };
 		8A9BF84C1A5F709F00399DBA /* SettingsHelper.swift in Sources */ = {isa = PBXBuildFile; fileRef = 8A9BF84B1A5F709F00399DBA /* SettingsHelper.swift */; };
-		F2FEF9E41C30737F00F40AE4 /* weight.png in Resources */ = {isa = PBXBuildFile; fileRef = F2FEF9E31C30737F00F40AE4 /* weight.png */; };
+		CF9FD0E11C31F0FB0064C4A0 /* weight.png in Resources */ = {isa = PBXBuildFile; fileRef = CF9FD0E01C31F0FB0064C4A0 /* weight.png */; };
 /* End PBXBuildFile section */
 
 /* Begin PBXContainerItemProxy section */
@@ -41,7 +41,7 @@
 		8A9BF83E1A5D15BE00399DBA /* tipsTests.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = tipsTests.swift; sourceTree = "<group>"; };
 		8A9BF8481A5EEDC200399DBA /* SettingsViewController.swift */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.swift; path = SettingsViewController.swift; sourceTree = "<group>"; };
 		8A9BF84B1A5F709F00399DBA /* SettingsHelper.swift */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.swift; path = SettingsHelper.swift; sourceTree = "<group>"; };
-		F2FEF9E31C30737F00F40AE4 /* weight.png */ = {isa = PBXFileReference; lastKnownFileType = image.png; name = weight.png; path = ../../weight.png; sourceTree = "<group>"; };
+		CF9FD0E01C31F0FB0064C4A0 /* weight.png */ = {isa = PBXFileReference; lastKnownFileType = image.png; path = weight.png; sourceTree = SOURCE_ROOT; };
 /* End PBXFileReference section */
 
 /* Begin PBXFrameworksBuildPhase section */
@@ -87,7 +87,7 @@
 				8A9BF8281A5D15BE00399DBA /* AppDelegate.swift */,
 				8A9BF82C1A5D15BE00399DBA /* Main.storyboard */,
 				8A9BF82F1A5D15BE00399DBA /* Images.xcassets */,
-				F2FEF9E31C30737F00F40AE4 /* weight.png */,
+				CF9FD0E01C31F0FB0064C4A0 /* weight.png */,
 				8A9BF8311A5D15BE00399DBA /* LaunchScreen.xib */,
 				8A9BF8261A5D15BE00399DBA /* Supporting Files */,
 				8A9BF84B1A5F709F00399DBA /* SettingsHelper.swift */,
@@ -212,7 +212,7 @@
 			buildActionMask = 2147483647;
 			files = (
 				8A9BF82E1A5D15BE00399DBA /* Main.storyboard in Resources */,
-				F2FEF9E41C30737F00F40AE4 /* weight.png in Resources */,
+				CF9FD0E11C31F0FB0064C4A0 /* weight.png in Resources */,
 				8A9BF8331A5D15BE00399DBA /* LaunchScreen.xib in Resources */,
 				8A9BF8301A5D15BE00399DBA /* Images.xcassets in Resources */,
 			);
